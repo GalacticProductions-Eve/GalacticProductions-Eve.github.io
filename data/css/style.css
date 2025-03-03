@@ -1,0 +1,9 @@
+.suse-font, p {
+    font-family: "SUSE", serif;
+    font-optical-sizing: auto;
+    font-weight: 222;
+    font-style: normal;
+}
+body {
+    background-image: linear-gradient(#204341, #4ec9e1);
+}
